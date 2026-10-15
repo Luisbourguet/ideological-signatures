@@ -2,7 +2,7 @@
 
 **Luis Felipe Bourguet González** — LabOnt – Center for Ontology, University of Turin; Complex Systems Science Laboratory, Hiroshima University. ORCID [0000-0002-4673-4486](https://orcid.org/0000-0002-4673-4486).
 
-Preprint, version 1 (15 October 2026). Submitted for peer review to the *Journal of Social Ontology*; not yet peer reviewed. Licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Preprint, version 1 (15 October 2026). Under double-anonymous peer review at a journal (venue withheld until decision); not yet peer reviewed. Licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 **Archived version:** concept DOI [10.5281/zenodo.23387760](https://doi.org/10.5281/zenodo.23387760) (always resolves to the latest version); this version (v1.0-preprint): [10.5281/zenodo.23387761](https://doi.org/10.5281/zenodo.23387761). Cite the DOI, not this repository.
 
@@ -32,4 +32,5 @@ python3 source/make_fig1.py && python3 source/make_figs.py
 Bourguet González, Luis Felipe. 2026. "Ideological Signatures: A Grid-Relative Criterion for the Individuation of Ideologies." Preprint, version 1. Zenodo. https://doi.org/10.5281/zenodo.23387760.
 
 ## Versions
-- v1 (2026-10-15): version submitted to the *Journal of Social Ontology*.
+- v1 (2026-10-15): version submitted for peer review.
+- v1.0.2 (2026-10-15): the name of the reviewing journal is withheld while the manuscript is under double-anonymous review; text unchanged.

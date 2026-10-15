@@ -3,18 +3,39 @@
   "upload_type": "publication",
   "publication_type": "preprint",
   "publication_date": "2026-10-15",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "language": "eng",
   "license": "CC-BY-4.0",
   "access_right": "open",
   "creators": [
-    {"name": "Bourguet González, Luis Felipe", "affiliation": "LabOnt – Center for Ontology, University of Turin; Complex Systems Science Laboratory, Hiroshima University", "orcid": "0000-0002-4673-4486"}
+    {
+      "name": "Bourguet González, Luis Felipe",
+      "affiliation": "LabOnt – Center for Ontology, University of Turin; Complex Systems Science Laboratory, Hiroshima University",
+      "orcid": "0000-0002-4673-4486"
+    }
   ],
-  "keywords": ["ideology", "social ontology", "individuation", "decontestation", "historical kinds", "emergence", "ideological morphology", "ontology of ideology"],
-  "description": "<p>What individuates an ideology? Doctrinal criteria fail because doctrines migrate across families and families survive doctrinal revision; morphological criteria improve on them by attending to how concepts are arranged, but remain internal to what an ideology says. This paper proposes a grid-relative criterion: an ideology is individuated by what it does to a grid of questions it did not author and cannot abolish. Within a stratified, emergentist-realist account of social reality, a matrix M = C &times; S crosses five existential conflicts with four social subsystems; each of its twenty cells holds a question thematized by durable symbolic forms before any ideology intervenes. An ideology operates on the matrix as a bounded weighting &omega; over the cells and as a chain of six operators &mdash; translation, fusion, naturalization, silencing, revelation, scission &mdash; understood as species of decontestation acting on questions rather than on concepts, and realized by specifiable social mechanisms. The signature of an ideological family is the pair &lang;&omega;, chain&rang;. Families are treated as historical kinds, not stipulated types: membership is fixed by lineage and replication, and the signature is the syndrome that the lineage explains. The framework locates its claims with the help of the grounding/anchoring distinction, answers the fictionalist denial of social levels, and states which of its results are argued, which are proposed, and which are conjectured. A closing protocol specifies how &omega; and the operators can be estimated from corpora and what observations would disconfirm the signatures proposed for ten families.</p><p>Preprint, version 1. Submitted for peer review to the <em>Journal of Social Ontology</em>; not yet peer reviewed.</p>",
-  "notes": "Version 1 corresponds to the manuscript submitted to the Journal of Social Ontology on 15 October 2026. Figures are included at 900 dpi; the scripts that generate them are in source/.",
+  "keywords": [
+    "ideology",
+    "social ontology",
+    "individuation",
+    "decontestation",
+    "historical kinds",
+    "emergence",
+    "ideological morphology",
+    "ontology of ideology"
+  ],
+  "description": "<p>What individuates an ideology? Doctrinal criteria fail because doctrines migrate across families and families survive doctrinal revision; morphological criteria improve on them by attending to how concepts are arranged, but remain internal to what an ideology says. This paper proposes a grid-relative criterion: an ideology is individuated by what it does to a grid of questions it did not author and cannot abolish. Within a stratified, emergentist-realist account of social reality, a matrix M = C &times; S crosses five existential conflicts with four social subsystems; each of its twenty cells holds a question thematized by durable symbolic forms before any ideology intervenes. An ideology operates on the matrix as a bounded weighting &omega; over the cells and as a chain of six operators &mdash; translation, fusion, naturalization, silencing, revelation, scission &mdash; understood as species of decontestation acting on questions rather than on concepts, and realized by specifiable social mechanisms. The signature of an ideological family is the pair &lang;&omega;, chain&rang;. Families are treated as historical kinds, not stipulated types: membership is fixed by lineage and replication, and the signature is the syndrome that the lineage explains. The framework locates its claims with the help of the grounding/anchoring distinction, answers the fictionalist denial of social levels, and states which of its results are argued, which are proposed, and which are conjectured. A closing protocol specifies how &omega; and the operators can be estimated from corpora and what observations would disconfirm the signatures proposed for ten families.</p><p>Preprint, version 1. Under double-anonymous peer review at a journal (venue withheld until decision); not yet peer reviewed.</p>",
+  "notes": "Version 1 corresponds to the manuscript submitted for double-anonymous peer review on 15 October 2026 (venue withheld until decision). Figures are included at 900 dpi; the scripts that generate them are in source/. v1.0.2 only removes the name of the reviewing journal from the banner, header and metadata.",
   "subjects": [
-    {"term": "Social ontology", "identifier": "https://id.loc.gov/authorities/subjects/sh85124061", "scheme": "url"},
-    {"term": "Ideology", "identifier": "https://id.loc.gov/authorities/subjects/sh85064140", "scheme": "url"}
+    {
+      "term": "Social ontology",
+      "identifier": "https://id.loc.gov/authorities/subjects/sh85124061",
+      "scheme": "url"
+    },
+    {
+      "term": "Ideology",
+      "identifier": "https://id.loc.gov/authorities/subjects/sh85064140",
+      "scheme": "url"
+    }
   ]
 }
