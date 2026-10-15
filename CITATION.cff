@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the archived version by its DOI."
+type: article
+title: "Ideological Signatures: A Grid-Relative Criterion for the Individuation of Ideologies"
+authors:
+  - family-names: "Bourguet González"
+    given-names: "Luis Felipe"
+    orcid: "https://orcid.org/0000-0002-4673-4486"
+    affiliation: "LabOnt – Center for Ontology, University of Turin; Complex Systems Science Laboratory, Hiroshima University"
+date-released: 2026-10-15
+version: "1.0"
+license: CC-BY-4.0
+keywords:
+  - ideology
+  - social ontology
+  - individuation
+  - decontestation
+  - historical kinds
+  - emergence
+abstract: "What individuates an ideology? This paper proposes a grid-relative criterion: an ideology is individuated by what it does to a grid of twenty questions it did not author and cannot abolish, operating as a bounded weighting over the cells and as a chain of six operators understood as species of decontestation. Families are treated as historical kinds; a closing protocol specifies how the signatures can be estimated and disconfirmed."
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.XXXXXXX"
+    description: "Zenodo deposit (fill in after deposit)"
